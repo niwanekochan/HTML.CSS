@@ -56,8 +56,9 @@ main{
   margin-top: 12px;
 }
 
-.sidebar p{
-  padding-left: 10px;
+.sidebar li{
+  list-style: none;
+  padding-bottom: 10px;
 }
 
 h2{
